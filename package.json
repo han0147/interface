@@ -102,7 +102,7 @@
     "@types/react": "latest",
     "@typescript-eslint/eslint-plugin": "^5.38.1",
     "axios": "^0.27.2",
-    "babel-loader": "^8.2.5",
+    "babel-loader": "^9.1.2",
     "babel-plugin-dynamic-import-node": "^2.3.3",
     "babel-plugin-macros": "^3.1.0",
     "cypress": "10.9.0",
